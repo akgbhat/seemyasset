@@ -8,7 +8,14 @@
 
 # The Idea
 
-**SeeMyAsset** is a cross-platform command-line application for managing personal and enterprise assets. Designed for IT administrators, system engineers, security professionals, and terminal enthusiasts, it provides a fast, lightweight, and highly customizable way to manage assets directly from the command line.
+**SeeMyAsset** is a cross-platform command-line application for managing personal assets. SeeMyAsset is great for:
+* Personal inventory
+* Home lab
+* Small business
+* Freelancer
+* Small IT teams
+
+Designed for IT administrators, system engineers, security professionals, and terminal enthusiasts, it provides a fast, lightweight, and highly customizable way to manage assets directly from the command line.
 
 Unlike traditional web-based inventory systems, SeeMyAsset is built around the idea that asset management should be simple, scriptable, and adaptable. It aims to manage virtually any type of asset—including hardware, software, licenses, accessories, stationery, and other inventory—through a modular PowerShell CLI.
 
@@ -16,7 +23,7 @@ Unlike traditional web-based inventory systems, SeeMyAsset is built around the i
 
 # Why SeeMyAsset?
 
-Enterprise asset management platforms are powerful but often complex, resource-intensive, and dependent on graphical interfaces.
+Enterprise asset management platforms are powerful but often costly, complex, resource-intensive, and dependent on graphical interfaces.
 
 SeeMyAsset explores a different approach:
 
